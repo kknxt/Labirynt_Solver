@@ -8,4 +8,16 @@
 - wyświetla tekstową reprezentację labiryntu bez zaznaczonej ścieżki oraz z zaznaczoną najkrótszą ścieżką
 
 ## Wywołanie programu:
-![wywołanie]
+![wywołanie](screenshots/wywolanie.png) (labirynt 5 x 5)
+
+## Wizualizacja działania programu
+![wywołanie](screenshots/l5.png) (5 x 5)
+
+
+![wywołanie](screenshots/l15.png) (15 x 15)
+
+
+![wywołanie](screenshots/l50.png) (50 x 50)
+
+Jak widać, jedynym ograniczeniem programu jest tekstowa charakterystyka wizualizacji jego działania.
+Dla dużych labiryntów ( > ~ 30) ciężko wyczytać najkrótszą ścieżkę w strukturze labiryntu.
